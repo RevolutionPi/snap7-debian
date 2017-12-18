@@ -1,3 +1,9 @@
+snap7 (1.4.2-1) stable; urgency=medium
+
+  * build for Debian
+
+ -- Kunbus <admin@kunbus.de>  Mon, 18 Dec 2017 12:53:07 +0100
+
 snap7 (1.4.2-1yakkety) yakkety; urgency=medium
 
   * build for yakkety
